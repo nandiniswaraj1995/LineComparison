@@ -7,6 +7,7 @@ namespace LineComparison
         static void Main(string[] args)
         {
             Console.WriteLine("Wellcome To Line Comparison Computation Program!");
+            CartesianSystem.lengthOFLine();
         }
     }
 }
