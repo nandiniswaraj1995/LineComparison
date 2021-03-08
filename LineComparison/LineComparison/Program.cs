@@ -7,7 +7,8 @@ namespace LineComparison
         static void Main(string[] args)
         {
             Console.WriteLine("Wellcome To Line Comparison Computation Program!");
-            LinesCompare.linesCompare();
+           // LinesCompare.linesCompare();
+            CompareToLines.linesCompareUsingCompateTo();
 
         }
     }
